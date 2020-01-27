@@ -10,7 +10,6 @@ Overall codebase updates:
 1. Adding semantic tag names to appropriate sections of html code in similar order of content flow.
 2. Adding comment notes to improve code readability
 
-
 Specific updates include but are not limited to the following:
 <head> element items:
 
@@ -18,7 +17,6 @@ Specific updates include but are not limited to the following:
 2. Added meta web page description for search engine optimization
 3. Updated web page title viewable in browser tab. 
 4. Added web page icon viewable in browser tag.
-
 
 <body> element items:
 
@@ -34,9 +32,9 @@ Specific updates include but are not limited to the following:
 1. Updated hero div with large team image to senamtic figure tag and contined within main elements.
 2. Added team image as an html element with an alt tag. This is imporoves SEO and Accesibility over
    a background image in the CSS stylesheet as it was prior. 
-3. Updated "content" div tag items  to semantic section tags. Updated class names of similar repeating elements and added id names to appropriate      single elements. Used semantic header tags for each product section elements. 
+3. Updated "content" div tag items to semantic section tags. Updated class names of similar repeating elements and added id names to appropriate      single elements. Used semantic header tags for each product section elements. 
 4. Added product class name to similar sections on Search Engine Optimization, Online Reputation Management, and Social Media Marketing and to         avoid using the same name for class and id.
-5. Updated prior named "benefits" div elements vertical box elements to a semantic aside element grouping. Added semantic sub-element section and      header tags. Designated elements with "result" category tag ames as opposed to "result". Added appropriate class names for repeating type           elements and id tags for individual items.
+5. Updated prior named "benefits" div elements vertical box elements to a semantic aside element grouping. Added semantic subelement section and header tags. Designated elements with "result" category tag ames as opposed to "result". Added appropriate class names for repeating type  elements and id tags for individual items.
 
 <footer> element items
 
@@ -80,3 +78,4 @@ Specific CSS code updates.
 1. Updated container and image sizing and margin attributes to maintain scalability for multi-device viewability. 
 2. Used green #2a7c45 for favorable backgound to text contrast ratio and to underscore  movement and profitability
    of Horiseon products. 
+
