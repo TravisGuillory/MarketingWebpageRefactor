@@ -1,6 +1,8 @@
 # MarketingWebpageRefactor
 Web page refactor to maximize search engine optimization and accessibility for marketing company.
 
+https://travisguillory.github.io/MarketingWebpageRefactor/
+
 TravsDevs, LLC is excited to partner with Horiseon Social Solutions Services, Inc. to provide a digital presence to draw customers in need of online marketing services. These webpage adjusments provide optimization for search engine disscovery and includes a code format that follows assesibility standards so that all web users have accces to these markting products. 
 
 The codebase updates achieve a Lighthouse audit score of 100 in Performance, Accesibility, and Search Engine Optimmization. 
